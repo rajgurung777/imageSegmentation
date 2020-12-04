@@ -1,5 +1,3 @@
-# imageSegmentation
-
 # Image Segmentation using Multi-Threshold technique by Histogram Sampling
 
 ## Abstract
